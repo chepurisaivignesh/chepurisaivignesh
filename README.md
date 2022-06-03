@@ -6,5 +6,6 @@
 -                        Mail-id: chepurisaivignesh@gmail.com
 -                        Twitter: ChepuriVignesh
 -                        Instagram: __sai_vignesh__
+-                        LinkedIn: https://www.linkedin.com/in/chepuri-sai-vignesh-15b788228/
 
 
